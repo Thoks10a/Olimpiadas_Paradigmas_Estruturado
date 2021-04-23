@@ -1,9 +1,3 @@
-# Andreza
-# Allan
-# Nicholas 21068470
-# Sofia
-# Lidia
-
 
 # Arremesso de peso – O/A atleta possui três arremessos. A posição na
 # classificação é determinada pela distância obtida no maior arremesso válido;
